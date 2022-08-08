@@ -35,3 +35,7 @@ And the magnet accuracy is set to 10x15 (meaning that you have a grid of 10 by 1
 
 ![Input Image](https://github.com/Yoursole1/MagnetImager/blob/main/magnetVisualization.jpg?raw=true)
 
+## Final Notes
+
+Unfortunately, I never used this system with a real magnet array because the cost and time to create one is too much, however working on this project
+I have learned a lot about image processing as well as the math behind metaballs!
