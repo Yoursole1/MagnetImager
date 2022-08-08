@@ -32,5 +32,5 @@ If this is the input image:
 
 And the magnet accuracy is set to 10x15 (meaning that you have a grid of 10 by 15 magnets to work with), the program will output:
 
-![Input Image](https://github.com/Yoursole1/MagnetImager/blob/main/cat.jpg?raw=true)
+![Input Image](https://github.com/Yoursole1/MagnetImager/blob/main/magnetVisualization.jpg?raw=true)
 
