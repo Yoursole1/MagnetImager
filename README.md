@@ -27,3 +27,5 @@ original.  As the algorithm runs it makes smaller and smaller changes each itera
 
 ## An example
 
+cat.jpg 
+
