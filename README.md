@@ -27,5 +27,5 @@ original.  As the algorithm runs it makes smaller and smaller changes each itera
 
 ## An example
 
-![Input Image](cat.png)
+![Input Image](./cat.png)
 
